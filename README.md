@@ -9,5 +9,6 @@ En este curso vemos:
 * Buenas Prácticas
 * Creado por el Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Recordatorio: **Este readme.md es una prueba**
