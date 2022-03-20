@@ -8,5 +8,7 @@ En este curso vemos:
 * El flujo de trabajo de Git
 * Buenas Prácticas
 * Creado por el Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Recordatorio: **Este readme.md es una prueba**
